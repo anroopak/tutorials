@@ -1,6 +1,10 @@
 # Tutorials
 All Tutorials I follow, followed and would be lovely for people to use
 
+## Scripts
+### Python - Basics, Reference
+- Simple python reference [http://python-reference.readthedocs.io/en/latest/intro.html](http://python-reference.readthedocs.io/en/latest/intro.html)
+
 ## Mobile
 ### PWA - Progressive Web Apps
 - Video tutorials by [vaadinofficial](https://www.youtube.com/channel/UCsGakFIbOsj-fgPFLf1QlQA)
