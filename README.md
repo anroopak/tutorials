@@ -1,6 +1,10 @@
 # Tutorials
 All Tutorials I follow, followed and would be lovely for people to use
 
+## Cloud
+### AWS - Logging with Sumologic
+- https://www.sumologic.com/blog/amazon-web-services/how-trek10-uses-sumo-logic-to-monitor-amazon-container-service/
+
 ## Scripts
 ### Python - Basics, Reference
 - Simple python reference [http://python-reference.readthedocs.io/en/latest/intro.html](http://python-reference.readthedocs.io/en/latest/intro.html)
